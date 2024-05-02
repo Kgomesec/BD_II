@@ -59,3 +59,13 @@ id int NOT NULL AUTO_INCREMENT,
 	(default, "VICENZO GADELHA GRECO", "d", '1967-04-30', "pi", "vermelho", "Guarda_costa", "colombiana", "sim", "M", "Barco");
 
     select * from alunos;
+    select nome from alunos where grupo = 'a';
+    select nome from alunos where cor_favorita = 'verde';
+    select nome from alunos where clube = 'beta';
+    select nome from alunos where profissao = 'jogador_futebol';
+    select nome from alunos where profissao = 'Manobrista';
+    select nome from alunos where nacionalidade = 'japonesa';
+    select nome from alunos where sexo = 'M';
+    select nome from alunos where sexo = 'F';
+    select nome from alunos where habilitado = 'sim';
+    select nome from alunos where filme = 'tubarão';

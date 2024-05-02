@@ -1,0 +1,52 @@
+Utilizando e demonstrando o SELECT, traga as seguintes informações:
+
+
+Quais os alunos são da turma a?
+Quais os alunos são da turma b?
+Quais os alunos são da turma c?
+Quais os alunos são da turma d?
+
+Quais alunos a cor favoritra é a AZUL?
+Quais alunos a cor favoritra é a ROSA?
+Quais alunos a cor favoritra é a VERDE?
+Quais alunos a cor favoritra é a VERMELHO?
+
+
+Quais alunos são torcedores do time ALPHA?
+Quais alunos são torcedores do time BETA?
+Quais alunos são torcedores do time DELTA?
+Quais alunos são torcedores do time PI?
+
+Quais alunos são jogadores de futebol?
+Quais alunos são  motorista?
+Quais alunos são  Guitarrista?
+Quais alunos são jogadores de golfe?
+Quais alunos são  Mecânicos?
+Quais alunos são  Manobristas?
+Quais alunos são  Cosplay?
+Quais alunos são  Guarda Costa?
+
+Quais alunos são brasileiros?
+Quais alunos são chineses?
+Quais alunos são Italianos?
+Quais alunos são portugueses?
+Quais alunos são colombianos?
+Quais alunos são americanos?
+Quais alunos são Japoneses?
+
+Quais alunos são do sexo masculino?
+Quais alunos são do sexo feminino?
+
+Quais alunos são habilitados?
+
+Quais alunos o filme favorito é MILAGRE?
+Quais alunos o filme favorito é BOLA?
+Quais alunos o filme favorito é FENIX?
+Quais alunos o filme favorito é PEGASOS?
+Quais alunos o filme favorito é BARCO?
+Quais alunos o filme favorito é ABELHA?
+Quais alunos o filme favorito é TUBARÃO?
+
+
+
+
